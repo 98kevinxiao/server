@@ -1,0 +1,19 @@
+trojan=ygzyd.sub-nthu.com:35005, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=tw-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇹🇼+台灣+A01
+trojan=shlt.sub-nthu.com:35005, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=tw-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇹🇼+台灣+B01
+trojan=hnlt.sub-nthu.com:35005, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=tw-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇹🇼+台灣+C01
+trojan=cn2hn.sub-nthu.com:35005, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=tw-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇹🇼+台灣+D01
+trojan=szdx.sub-nthu.com:35005, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=tw-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇹🇼+台灣+E01
+trojan=ygzyd.sub-nthu.com:35001, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=jp-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵+東京+A01
+trojan=shlt.sub-nthu.com:35001, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=jp-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵+東京+B01
+trojan=hnlt.sub-nthu.com:35001, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=jp-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵+東京+C01
+trojan=cn2hn.sub-nthu.com:35001, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=jp-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵+東京+D01
+trojan=szdx.sub-nthu.com:35001, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=jp-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇯🇵+東京+E01
+trojan=ygzyd.sub-nthu.com:35000, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=us-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸+美國+A01
+trojan=shlt.sub-nthu.com:35000, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=us-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸+美國+B01
+trojan=hnlt.sub-nthu.com:35000, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=us-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇺🇸+美國+C01
+trojan=ygzyd.sub-nthu.com:35002, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=hk-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰+香港+A01
+trojan=shlt.sub-nthu.com:35002, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=hk-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰+香港+B01
+trojan=hnlt.sub-nthu.com:35002, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=hk-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰+香港+C01
+trojan=cn2hn.sub-nthu.com:35002, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=hk-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇭🇰+香港+D01
+trojan=ygzyd.sub-nthu.com:35003, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=sg-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬+新加坡+A01
+trojan=shlt.sub-nthu.com:35003, password=87d5ee80-9dfa-4cb5-b644-062803bd0c19, over-tls=true, tls-host=sg-1.sub-nthu.com, tls-verification=false, fast-open=true, udp-relay=false, tag=🇸🇬+新加坡+B01
