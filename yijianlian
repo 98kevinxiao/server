@@ -74,4 +74,4 @@ shadowsocks=iepl-hn01.qqgg.work:20098, method=aes-256-cfb, password=hGkQ6915tD, 
 shadowsocks=jx-002.yyuuii.cyou:10019, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=送中36
 shadowsocks=iepl-hn01.qqgg.work:21637, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=送中37
 shadowsocks=iepl-hn01.qqgg.work:46164, method=aes-256-cfb, password=hGkQ6915tD, ssr-protocol=auth_aes128_md5, ssr-protocol-param=32381:C2pHyiQfgm, obfs=tls1.2_ticket_auth, obfs-host=ajax.microsoft.com, fast-open=false, udp-relay=false, tag=送中38
-trojan=www.zx07.top:443, password=L1qNeGrY58ApwrRA, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=送中39
+
