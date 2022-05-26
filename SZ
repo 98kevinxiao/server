@@ -1,4 +1,0 @@
-shadowsocks=134.122.160.4:12235,method=aes-256-gcm,password=1d3a53e7-161d-4a10-8f8f-fa5ca9ab31a4,fast-open=true,udp-relay=true, tag=送中01
-shadowsocks=hk1.api-aws.com:22022,method=chacha20-ietf-poly1305,password=1d3a53e7-161d-4a10-8f8f-fa5ca9ab31a4,fast-open=true,udp-relay=true, ,tag=送中02
-trojan=la1.api-aws.com:443,password=1d3a53e7-161d-4a10-8f8f-fa5ca9ab31a4,over-tls=true,tls-verification=true,fast-open=true,udp-relay=true,tag=送中03
-trojan=kr1.api-aws.com:443,password=1d3a53e7-161d-4a10-8f8f-fa5ca9ab31a4,over-tls=true,tls-host=kr1.api-aws.com,tls-verification=true,fast-open=true,udp-relay=true, tag=送中04
