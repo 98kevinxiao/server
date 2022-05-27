@@ -1,14 +1,18 @@
-shadowsocks=104.243.26.26:254, method=aes-256-cfb, password=bwhskrskr03, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=34.219.27.217:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=13.125.226.65:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=172.96.194.114:252, method=aes-256-cfb, password=bwhskrskr06, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=13.113.164.14:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=3.36.100.140:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=3.38.214.176:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=18.236.127.95:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=3.36.95.219:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=54.199.109.240:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=13.212.91.109:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=:0, method=aes-256-cfb, password=, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=52.38.184.218:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
-shadowsocks=18.138.250.27:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly
+shadowsocks=104.243.26.26:254, method=aes-256-cfb, password=bwhskrskr03, udp-relay=false, fast-open=false, tag=Fly1
+shadowsocks=34.219.27.217:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly2
+shadowsocks=13.125.226.65:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly3
+shadowsocks=172.96.194.114:252, method=aes-256-cfb, password=bwhskrskr06, udp-relay=false, fast-open=false, tag=Fly4
+shadowsocks=13.113.164.14:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly5
+shadowsocks=3.36.100.140:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly6
+shadowsocks=3.38.214.176:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly7
+shadowsocks=18.236.127.95:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly8
+shadowsocks=3.36.95.219:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly9
+shadowsocks=54.199.109.240:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly10
+shadowsocks=13.212.91.109:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly11
+shadowsocks=:0, method=aes-256-cfb, password=, udp-relay=false, fast-open=false, tag=Fly12
+shadowsocks=52.38.184.218:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly13
+shadowsocks=18.138.250.27:443, method=aes-256-cfb, password=amazonskr05, udp-relay=false, fast-open=false, tag=Fly14
+
+shadowsocks=134.122.160.4:12235, method=aes-256-gcm, password=1d3a53e7-161d-4a10-8f8f-fa5ca9ab31a4, fast-open=false, udp-relay=false, tag=🇯🇵Tokyo
+shadowsocks=one.hmbiplc-01.com:53011, method=chacha20-ietf-poly1305, password=y552gATTP54tw1#kEXx, fast-open=false, udp-relay=false, tag=新plane -Tokyo [JP]
+shadowsocks=hk1.api-aws.com:22022, method=chacha20-ietf-poly1305, password=1d3a53e7-161d-4a10-8f8f-fa5ca9ab31a4, fast-open=false, udp-relay=false, tag=🇭🇰Hong Kong
