@@ -1,1 +1,3 @@
 http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false,  server_check_url=http://interface3.music.163.com,tag=网易云1
+ss://YWVzLTEyOC1nY206ZGVzcGVyYWRvai5jb21fZnJlZV9wcm94eV9ldGcw@music.desperadoj.com:30001#%e8%a7%a3%e9%94%81
+ss://YWVzLTEyOC1nY206VGhpc19wcm94eV9pc19mb3JfZnJlZQ@127.0.0.1:8080#%e2%80%bc%ef%b8%8f+%e5%85%8d%e8%b4%b9%e4%bb%a3%e7%90%86%ef%bc%8c%e9%81%87%e6%94%b6%e8%b4%b9%e8%af%b7%e4%b8%be%e6%8a%a5
