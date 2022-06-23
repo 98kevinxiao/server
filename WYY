@@ -1,3 +1,0 @@
-http=os.tencentcdn.net:25000, tls=false, tag=网易云1
-
-http=1.15.134.245:70,fast-open=false, udp-relay=false, tag=网易云2
