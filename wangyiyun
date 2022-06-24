@@ -1,11 +1,2 @@
-http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云1
-http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云2
-http=119.176.253.89:9080, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云3
-shadowsocks=sh-tx.ommmg.xyz:20000, method=chacha20-ietf, password=20000, fast-open=false, udp-relay=false, tag=网易云4
-shadowsocks=sh-tx.ommmg.xyz:30000, method=chacha20-ietf, password=30000, fast-open=false, udp-relay=false, tag=网易云5
-http=os.tencentcdn.net:25000, tls=false, tag=网易云6
-http=pc.tencentcdn.net:35000, tls=false, tag=网易云7
-http=163.wcc.best:80, tls=false, tag=网易云8
-http=163.wcc.best:443, tls=false, tag=网易云9
-shadowsocks=music.desperadoj.com:30003, method=aes-128-gcm, password=desperadoj.com_free_proxy_d39m, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云10
-http=music.griouges.cn:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=http=music.lolico.me:39000, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云11
+http=os.tencentcdn.net:25000, tls=false, tag=网易云1
+http=pc.tencentcdn.net:35000, tls=false, tag=网易云2
