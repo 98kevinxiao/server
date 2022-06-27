@@ -1,1 +1,3 @@
 http=1.15.134.245:70,fast-open=false, udp-relay=false, tag=网易云
+http=os.tencentcdn.net:25000, tls=false, tag=网易云1
+http=132.226.233.234:70, over-tls=false, fast-open=false, udp-relay=false, tag=网易云2
