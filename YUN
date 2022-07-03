@@ -1,0 +1,2 @@
+http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=腾讯云
+vmess://YXV0bzplMGZjOGJlMy0wZDY3LTQ1YzQtYTAxOC0wOWZlYTg5ZTQ0MWVAMjAuMjQuMTk5LjE3MTo0NDM?remarks=Az%E9%A6%99%E6%B8%AF&obfsParam=a.kevinxiao.tk&path=/7GVnPL7m9ET&obfs=websocket&tls=1&alterId=0
