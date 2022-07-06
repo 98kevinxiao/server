@@ -1,2 +1,3 @@
 http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=腾讯云
 vmess=20.24.199.171:443, method=aes-128-gcm, password=18f7ba1c-349c-4a97-8567-92aa352601bc, obfs=wss, obfs-host=www.kevinxiao.ml, obfs-uri=/nFoTVQL4, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=Az香港
+trojan=www.kevinxiao.cf:443, password=55eae85214, obfs=wss, obfs-host=www.kevinxiao.cf, obfs-uri=/eb29cb78, tls-verification=false, fast-open=false, udp-relay=false, tag=Az100香港
