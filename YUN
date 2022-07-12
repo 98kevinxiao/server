@@ -1,8 +1,0 @@
-http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=腾讯云
-http=42.193.231.48:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=白嫖云
-http=www.kevinxiao.cf:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Azure1
-http=www.kevinxiao.ml:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=Azure2
-vmess=20.247.116.207:443, method=aes-128-gcm, password=18f7ba1c-349c-4a97-8567-92aa352601bc, obfs=wss, obfs-host=www.kevinxiao.ml, obfs-uri=/nFoTVQL4, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰Az香港1
-trojan=www.kevinxiao.cf:443, password=55eae85214, over-tls=true, tls-verification=false, tls-host=www.kevinxiao.cf, fast-open=true, udp-relay=false, tag=🇭🇰Az香港2
-trojan=adm.kevinxiao.cf:443, password=cf3ca3b402, obfs=wss, obfs-host=adm.kevinxiao.cf, obfs-uri=/cff32774, tls-verification=false, fast-open=false, udp-relay=false, tag=🇰🇷ADM春川1
-trojan=dam.kevinxiao.cf:443, password=458325a0ab, obfs=wss, obfs-host=dam.kevinxiao.cf, obfs-uri=/1feed91e, tls-verification=false, fast-open=false, udp-relay=false, tag=🇰🇷ADM春川2
