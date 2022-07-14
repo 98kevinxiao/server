@@ -1,4 +1,2 @@
-http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云˙
-http=42.193.231.48:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云˙˙
-http=www.kevinxiao.cf:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云˙˙˙
-http=www.kevinxiao.ml:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云˙˙˙˙
+http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云
+http=42.193.231.48:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=网易云˙
