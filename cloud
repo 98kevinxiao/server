@@ -1,0 +1,11 @@
+#这些都是自己搭建的，请勿分享滥用。
+
+#甲骨文云 
+#群友AMD大阪    @luck_frank
+#直连   vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ5cWMiLAogICJhZGQiOiAiZGFiYW4ueC11aS5jZiIsCiAgInBvcnQiOiAzMzMyNiwKICAiaWQiOiAiMmFjODNhN2MtMzk2Yy00OGE0LWY0YWUtMGZhNzMzZDM3OWFiIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi9EYXRlIiwKICAidGxzIjogIm5vbmUiCn0=
+
+#群友中转 Neko皖日
+vmess=103.186.4.30:45286, method=aes-128-gcm, password=2ac83a7c-396c-48a4-f4ae-0fa733d379ab, obfs=wss, obfs-host=daban.x-ui.cf, obfs-uri=/Date, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=AMD大阪-Neko
+
+#套CDN  cloudflare
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNROWkp+mYqiIsDQogICJhZGQiOiAiNDcuMjQxLjIzMC44IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjJhYzgzYTdjLTM5NmMtNDhhNC1mNGFlLTBmYTczM2QzNzlhYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGFiYW4ueC11aS5jZiIsDQogICJwYXRoIjogIi9EYXRlIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
