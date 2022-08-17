@@ -1,11 +1,15 @@
-#这些都是自己搭建的，请勿分享滥用。
+vmess=hk.techgames.fun:39229, method=aes-128-gcm, password=7ef120ce-c6fa-4c3c-e961-2b0cc2f69ca7, obfs=wss, obfs-host=hk.techgames.fun, obfs-uri=/app, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cloudie-1 
 
-#甲骨文云 
-#群友AMD大阪    @luck_frank
-#直连   vmess://ewogICJ2IjogIjIiLAogICJwcyI6ICJ5cWMiLAogICJhZGQiOiAiZGFiYW4ueC11aS5jZiIsCiAgInBvcnQiOiAzMzMyNiwKICAiaWQiOiAiMmFjODNhN2MtMzk2Yy00OGE0LWY0YWUtMGZhNzMzZDM3OWFiIiwKICAiYWlkIjogMCwKICAibmV0IjogIndzIiwKICAidHlwZSI6ICJub25lIiwKICAiaG9zdCI6ICIiLAogICJwYXRoIjogIi9EYXRlIiwKICAidGxzIjogIm5vbmUiCn0=
+trojan=xclean.govpnapi.net:443, password=gCFsX1yXWw, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰vh-1(Netflix解锁) 
 
-#群友中转 Neko皖日
-vmess=103.186.4.30:45286, method=aes-128-gcm, password=2ac83a7c-396c-48a4-f4ae-0fa733d379ab, obfs=wss, obfs-host=daban.x-ui.cf, obfs-uri=/Date, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=AMD大阪-Neko
+vmess=bobosky8.aubrey.buzz:39728, method=aes-128-gcm, password=8bc20071-1db5-4b00-8785-bcf2ecc38850, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-1(Netflix解锁) 
 
-#套CDN  cloudflare
-vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIkFNROWkp+mYqiIsDQogICJhZGQiOiAiNDcuMjQxLjIzMC44IiwNCiAgInBvcnQiOiAiNDQzIiwNCiAgImlkIjogIjJhYzgzYTdjLTM5NmMtNDhhNC1mNGFlLTBmYTczM2QzNzlhYiIsDQogICJhaWQiOiAiMCIsDQogICJzY3kiOiAiYXV0byIsDQogICJuZXQiOiAid3MiLA0KICAidHlwZSI6ICJub25lIiwNCiAgImhvc3QiOiAiZGFiYW4ueC11aS5jZiIsDQogICJwYXRoIjogIi9EYXRlIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiIsDQogICJhbHBuIjogIiINCn0=
+vmess=yz.aubrey.buzz:22795, method=aes-128-gcm, password=4d68f243-1769-4bbe-e151-baf8280da4ef, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-2(Netflix解锁) 
+
+vmess=hk.wang43.xyz:18572, method=aes-128-gcm, password=aec587d6-4f2b-4824-f04d-045b36b465f4, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-3(Netflix解锁) 
+
+vmess=licloud.aubrey.buzz:14266, method=aes-128-gcm, password=fea22205-5ef3-4dc3-9a92-c50cc80f4fad, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰野草云-1(Netflix解锁) 
+
+trojan=game.chaowenwan.com:1314, password=gcwc1314, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰bwg-1 
+
+vmess=b.admcn.net:29991, method=aes-128-gcm, password=f12831fe-9c31-4b44-9972-78151f87e16b, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰topidc-1(Netflix解锁)
