@@ -1,7 +1,5 @@
 vmess=hk.techgames.fun:39229, method=aes-128-gcm, password=7ef120ce-c6fa-4c3c-e961-2b0cc2f69ca7, obfs=wss, obfs-host=hk.techgames.fun, obfs-uri=/app, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cloudie-1 
 
-trojan=xclean.govpnapi.net:443, password=gCFsX1yXWw, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰vh-1(Netflix解锁) 
-
 vmess=bobosky8.aubrey.buzz:39728, method=aes-128-gcm, password=8bc20071-1db5-4b00-8785-bcf2ecc38850, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-1(Netflix解锁) 
 
 vmess=yz.aubrey.buzz:22795, method=aes-128-gcm, password=4d68f243-1769-4bbe-e151-baf8280da4ef, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-2(Netflix解锁) 
