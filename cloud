@@ -4,8 +4,6 @@ vmess=bobosky8.aubrey.buzz:39728, method=aes-128-gcm, password=8bc20071-1db5-4b0
 
 vmess=yz.aubrey.buzz:22795, method=aes-128-gcm, password=4d68f243-1769-4bbe-e151-baf8280da4ef, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-2(Netflix解锁) 
 
-vmess=hk.wang43.xyz:18572, method=aes-128-gcm, password=aec587d6-4f2b-4824-f04d-045b36b465f4, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-3(Netflix解锁) 
-
 vmess=licloud.aubrey.buzz:14266, method=aes-128-gcm, password=fea22205-5ef3-4dc3-9a92-c50cc80f4fad, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰野草云-1(Netflix解锁) 
 
 trojan=game.chaowenwan.com:1314, password=gcwc1314, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰bwg-1 
