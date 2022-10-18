@@ -1,0 +1,17 @@
+vmess=39.103.165.178:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳北京
+
+vmess=111.23.252.216:34214, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳成都
+
+vmess=47.104.237.32:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳青岛
+
+vmess=119.45.28.201:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳长沙
+
+vmess=112.132.215.13:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳合肥
+
+vmess=49.234.84.132:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳深圳
+
+vmess=42.193.191.50:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳深圳
+
+vmess=139.186.153.84:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳深圳
+
+vmess=49.232.167.71:50002, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇨🇳深圳
