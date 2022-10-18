@@ -6,6 +6,3 @@ vmess=yz.aubrey.buzz:22795, method=aes-128-gcm, password=4d68f243-1769-4bbe-e151
 
 vmess=licloud.aubrey.buzz:14266, method=aes-128-gcm, password=fea22205-5ef3-4dc3-9a92-c50cc80f4fad, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰香港3
 
-vmess=111.45.22.239:30302, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇭🇰香港4
-
-vmess=45.12.131.252:443, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=www.54573461.xyz, obfs-uri=/path/243535322906, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=🇺🇸美国
