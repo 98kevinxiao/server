@@ -1,11 +1,11 @@
-vmess=hk.techgames.fun:39229, method=aes-128-gcm, password=7ef120ce-c6fa-4c3c-e961-2b0cc2f69ca7, obfs=wss, obfs-host=hk.techgames.fun, obfs-uri=/app, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cloudie-1 
+http=1.15.134.245:70, over-tls=false, fast-open=false, udp-relay=false, server_check_url=http://interface3.music.163.com, tag=🇨🇳中国
 
-vmess=bobosky8.aubrey.buzz:39728, method=aes-128-gcm, password=8bc20071-1db5-4b00-8785-bcf2ecc38850, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-1(Netflix解锁) 
+vmess=hk.techgames.fun:39229, method=aes-128-gcm, password=7ef120ce-c6fa-4c3c-e961-2b0cc2f69ca7, obfs=wss, obfs-host=hk.techgames.fun, obfs-uri=/app, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰香港1
 
-vmess=yz.aubrey.buzz:22795, method=aes-128-gcm, password=4d68f243-1769-4bbe-e151-baf8280da4ef, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰cns-2(Netflix解锁) 
+vmess=yz.aubrey.buzz:22795, method=aes-128-gcm, password=4d68f243-1769-4bbe-e151-baf8280da4ef, obfs=over-tls, tls-verification=true, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰香港2
 
-vmess=licloud.aubrey.buzz:14266, method=aes-128-gcm, password=fea22205-5ef3-4dc3-9a92-c50cc80f4fad, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰野草云-1(Netflix解锁) 
+vmess=licloud.aubrey.buzz:14266, method=aes-128-gcm, password=fea22205-5ef3-4dc3-9a92-c50cc80f4fad, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰香港3
 
-trojan=game.chaowenwan.com:1314, password=gcwc1314, over-tls=true, tls-verification=false, fast-open=false, udp-relay=false, tag=🇭🇰bwg-1 
+vmess=111.45.22.239:30302, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, fast-open=false, udp-relay=false, aead=false, tag=🇭🇰香港4
 
-vmess=b.admcn.net:29991, method=aes-128-gcm, password=f12831fe-9c31-4b44-9972-78151f87e16b, obfs=over-tls, tls-verification=false, fast-open=false, udp-relay=false, aead=true, tag=🇭🇰topidc-1(Netflix解锁)
+vmess=45.12.131.252:443, method=aes-128-gcm, password=418048af-a293-4b99-9b0c-98ca3580dd24, obfs=wss, obfs-host=www.54573461.xyz, obfs-uri=/path/243535322906, tls-verification=false, fast-open=false, udp-relay=false, aead=false, tag=🇺🇸美国
